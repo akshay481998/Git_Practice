@@ -1,1 +1,4 @@
-print("Akshay")
+def addition(a,b):
+    return a+b
+
+print(addition(10,5))
